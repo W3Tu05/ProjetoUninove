@@ -1,0 +1,3 @@
+﻿Evolut2;dbo;Evolut2;Medicamento;1;NULL;NO;varchar;100;100;NULL;NULL;NULL;NULL;NULL;NULL;iso_1;NULL;NULL;Latin1_General_CI_AS;NULL;NULL;NULL
+Evolut2;dbo;Evolut2;Quantidade;2;NULL;NO;varchar;50;50;NULL;NULL;NULL;NULL;NULL;NULL;iso_1;NULL;NULL;Latin1_General_CI_AS;NULL;NULL;NULL
+Evolut2;dbo;Evolut2;Descricao;3;NULL;NO;varchar;500;500;NULL;NULL;NULL;NULL;NULL;NULL;iso_1;NULL;NULL;Latin1_General_CI_AS;NULL;NULL;NULL
