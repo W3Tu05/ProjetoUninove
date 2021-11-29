@@ -3,6 +3,6 @@
 # Login do sistema.
 ## Login: Admin
 ## Senha: admin123
-# Extras
+# Extra
 ## Arquivo "Tuto_GitHub", tutorial mostrando o GitHub.
 ## Arquivo "Tuto_Tela", tutorial mostrando a tela do sistema.
