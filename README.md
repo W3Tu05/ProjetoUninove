@@ -5,4 +5,4 @@
 ## Senha: admin123
 # Extra
 ## Arquivo "Tuto_GitHub", tutorial mostrando o GitHub.
-## Arquivo "Tuto_Tela", tutorial mostrando a tela do sistema.
+## Arquivo "Tuto_Tela", tutorial mostrando a Tela do Sistema.
